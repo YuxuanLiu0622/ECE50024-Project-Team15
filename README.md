@@ -2,4 +2,4 @@
 
 Reimplementation of Learning to Reweight Example for Robust Deep Learning
 
-Team members: Hyunsoo Park, Andres Martinez, Heesoo Kim, Mingyun Kim, Yuxuan Liu
+Team members: Hyunsoo Park, Andres Martinez, Heesoo Kim, Mingyu Kim, Yuxuan Liu
